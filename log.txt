@@ -1,0 +1,13 @@
+2020-06-12 18:42:41,607 mainLogger.jsonDecoder  WARNING : 扫描的list对象没有下个字符
+2020-06-12 18:42:41,607 mainLogger.jsonDecoder  WARNING : string类型没有后引号
+2020-06-12 18:42:41,607 mainLogger.jsonDecoder  WARNING : 没有匹配到value类型: T
+2020-06-12 18:42:41,607 mainLogger.jsonDecoder  WARNING : 非法的boolean值 f
+2020-06-12 18:42:41,607 mainLogger.jsonDecoder  WARNING : 对象键值必须为string类型 ' 
+2020-06-12 18:42:41,607 mainLogger.jsonDecoder  WARNING : 对象键值必须为string类型 1 
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : 对象键值必须为string类型 t 
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : 无法访问下一个字符
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : 没有匹配到value类型: ,
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : 没有匹配到value类型: .
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : 没有匹配到value类型: +
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : json 数据异常
+2020-06-12 18:42:41,608 mainLogger.jsonDecoder  WARNING : string类型没有后引号
